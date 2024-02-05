@@ -1,6 +1,0 @@
-com\Task\Task\Model\Task.class
-com\Task\Task\Controller\TaskController.class
-com\Task\Task\database\DatabaseConfig.class
-com\Task\Task\Controller\TaskRepositorie.class
-com\Task\Task\Repositorie\TaskRepositoryImpl.class
-com\Task\Task\TaskApplication.class
